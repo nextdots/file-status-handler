@@ -1,0 +1,15 @@
+{
+  "name": "file-status-handler",
+  "version": "0.1.0",
+  "description": "Move a file to track its status",
+  "main": "index.js",
+  "author": "Juan Eugenio Abadie (juaneabadie@gmail.com)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nextdots/file-status-handler.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.17.1"
+  }
+}
